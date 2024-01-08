@@ -166,6 +166,8 @@ need_kconfig:
 - SND_SOC_INTEL_AVS_MACH_I2S_TEST: m
 
 - KALLSYMS: y
+- V4L_TEST_DRIVERS: y
+- VIDEO_DEV: m
 
 # below are kunit test configs of bool type
 - FUNCTION_TRACER: y
