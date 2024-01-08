@@ -169,6 +169,8 @@ need_kconfig:
 - V4L_TEST_DRIVERS: y
 - VIDEO_DEV: m
 - USB4_DMA_TEST: m
+- UNICODE_NORMALIZATION_SELFTEST: m
+- UNICODE: m
 
 # below are kunit test configs of bool type
 - FUNCTION_TRACER: y
