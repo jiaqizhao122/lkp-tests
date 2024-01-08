@@ -19,7 +19,7 @@ if [[ "$group" = "group-00" ]]; then
 	            "iio-test-rescale" "overflow_kunit" "soc-utils-test" "stackinit_kunit" "is_signed_type_kunit" \
 	            "siphash_kunit" "strscpy_kunit" "soc-topology-test" "fat_test")
 elif [[ "$group" = "group-01" ]]; then
-	test_array=("compat_ioctl32" "v4l1-compat" " v4l1-compat" "v4l2-dv-timings" "v4l2-int-device" "videodev"\
+	test_array=("compat_ioctl32" "v4l1-compat" " v4l1-compat" "v4l2-dv-timings" "v4l2-int-device" "videodev" "thunderbolt_dma_test" \
 	        	"test_string" "test_div64" "test_bpf" "test_min_heap" "test_user_copy" "test_static_key_base" \
 	            "test_scanf" "test_bitmap" "test_uuid" "test_xarray" "test_rhashtable" "test_memcat_p" \
 	            "test_udelay" "test_klp_livepatch" "test_klp_shadow_vars" "test_hmm" "test_free_pages" "test_fpu" \

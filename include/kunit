@@ -168,6 +168,7 @@ need_kconfig:
 - KALLSYMS: y
 - V4L_TEST_DRIVERS: y
 - VIDEO_DEV: m
+- USB4_DMA_TEST: m
 
 # below are kunit test configs of bool type
 - FUNCTION_TRACER: y
