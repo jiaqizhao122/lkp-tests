@@ -1,5 +1,6 @@
 apache2: httpd
 apt-file:
+arping: iputils
 autopoint: gettext-devel
 autotools-dev: autoconf
 bind9: bind
