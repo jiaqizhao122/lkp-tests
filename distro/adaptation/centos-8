@@ -1,1 +1,2 @@
+cgroup-tools: libcgroup-tools
 python-setuptools: python2-setuptools
