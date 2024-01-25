@@ -14,7 +14,7 @@ cron: cronie
 dbench=4.0-2: dbench
 default-jdk: java-17-amazon-corretto
 dpkg-dev: 
-exfat-fuse: exfat-utils
+exfat-fuse: 
 f2fs-tools:
 freeglut3: freeglut
 fsmark: fs_mark
