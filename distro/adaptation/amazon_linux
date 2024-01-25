@@ -18,4 +18,8 @@ default-jdk: java-17-amazon-corretto
 dnsutils: bind-utils
 dpkg-dev:
 e2fslibs-dev: e2fsprogs-devel
-exfat-fuse:  
+exfat-fuse: 
+f2fs-tools: 
+fakeroot:
+freeglut3: freeglut
+fsmark: 
