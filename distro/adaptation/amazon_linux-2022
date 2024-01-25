@@ -22,7 +22,7 @@ gcc-4.9: gcc
 gcc-5: gcc
 gcc-6: gcc
 gcc-9: gcc
-gcc-multilib: libgcc.i686
+gcc-multilib:
 gdbserver: gdb-gdbserver
 gfortran: gcc-gfortran
 hpcc:

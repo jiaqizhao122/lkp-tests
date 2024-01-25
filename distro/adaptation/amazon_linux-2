@@ -32,7 +32,7 @@ install-info: info
 iozone3: gnuplot*
 iproute2: iproute
 klibc-utils:
-gcc-multilib: libgcc.i686
+gcc-multilib:
 libacl1-dev: libacl-devel
 libaio1: libaio
 libaio-dev: libaio-devel

@@ -23,3 +23,13 @@ f2fs-tools:
 fakeroot:
 freeglut3: freeglut
 fsmark: 
+gcc-4.9: gcc
+gcc-5: gcc
+gcc-6: gcc
+gcc-6-multilib:
+g++: gcc-c++
+gfortran: gcc-c++
+gcc-9: gcc
+gcc-multilib:
+gdbserver: gdb-gdbserver
+gfortran: gcc-gfortran
