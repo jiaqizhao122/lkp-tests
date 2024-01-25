@@ -1,0 +1,5 @@
+apache2: httpd
+apt-file:
+arping: iputils
+autopoint: gettext
+autotools-dev: autoconf
