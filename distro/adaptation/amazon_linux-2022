@@ -13,7 +13,7 @@ cgroupfs-mount:
 cron: cronie
 dbench=4.0-2: dbench
 default-jdk: java-17-amazon-corretto
-dpkg-dev: dpkg-devel
+dpkg-dev: 
 exfat-fuse: exfat-utils
 f2fs-tools:
 freeglut3: freeglut

@@ -13,4 +13,7 @@ cgroupfs-mount:
 clang-6.0: clang
 cmake:
 cron: cronie
-
+dbench=4.0-2: dbench
+default-jdk: java-17-amazon-corretto
+dnsutils: bind-utils
+dpkg-dev: 
