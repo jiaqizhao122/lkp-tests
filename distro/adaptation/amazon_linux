@@ -33,3 +33,5 @@ gcc-9: gcc
 gcc-multilib:
 gdbserver: gdb-gdbserver
 gfortran: gcc-gfortran
+heirloom-mailx: mailx
+hpcc:
