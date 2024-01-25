@@ -7,3 +7,10 @@ bind9: bind
 binutils-dev: binutils-devel
 btrfs-tools:
 build-essential: make automake gcc gcc-c++ kernel-devel rpm-build
+cgroup-bin: libcgroup
+cgroup-tools: libcgroup-tools
+cgroupfs-mount:
+clang-6.0: clang
+cmake:
+cron: cronie
+
