@@ -35,3 +35,7 @@ gdbserver: gdb-gdbserver
 gfortran: gcc-gfortran
 heirloom-mailx: mailx
 hpcc:
+initramfs-tools: dracut
+install-info: info
+iozone3:
+iproute2: iproute
